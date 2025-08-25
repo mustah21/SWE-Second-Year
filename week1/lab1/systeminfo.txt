@@ -1,0 +1,181 @@
+
+Hostname: Asus-Mustafa
+platform: win32
+CPUs: [
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 1800062,
+      "nice": 0,
+      "sys": 2615468,
+      "idle": 95022421,
+      "irq": 483437
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 2157343,
+      "nice": 0,
+      "sys": 1939171,
+      "idle": 95341375,
+      "irq": 125906
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 4808750,
+      "nice": 0,
+      "sys": 7288718,
+      "idle": 87340421,
+      "irq": 1151843
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 5296343,
+      "nice": 0,
+      "sys": 5309796,
+      "idle": 88831750,
+      "irq": 322703
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 1029593,
+      "nice": 0,
+      "sys": 697250,
+      "idle": 97711031,
+      "irq": 31234
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 1069265,
+      "nice": 0,
+      "sys": 699781,
+      "idle": 97668828,
+      "irq": 30093
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 117203,
+      "nice": 0,
+      "sys": 107562,
+      "idle": 99213109,
+      "irq": 3968
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 115125,
+      "nice": 0,
+      "sys": 98781,
+      "idle": 99223968,
+      "irq": 2984
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 421828,
+      "nice": 0,
+      "sys": 291031,
+      "idle": 98725015,
+      "irq": 13359
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 438453,
+      "nice": 0,
+      "sys": 288250,
+      "idle": 98711171,
+      "irq": 12312
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 5864015,
+      "nice": 0,
+      "sys": 5453328,
+      "idle": 88120546,
+      "irq": 294656
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 5664796,
+      "nice": 0,
+      "sys": 5361468,
+      "idle": 88411625,
+      "irq": 275765
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 171515,
+      "nice": 0,
+      "sys": 149250,
+      "idle": 99117109,
+      "irq": 5671
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 173171,
+      "nice": 0,
+      "sys": 140734,
+      "idle": 99123968,
+      "irq": 5906
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 84031,
+      "nice": 0,
+      "sys": 87343,
+      "idle": 99266500,
+      "irq": 3828
+    }
+  },
+  {
+    "model": "AMD Ryzen 7 7435HS                             ",
+    "speed": 3094,
+    "times": {
+      "user": 87578,
+      "nice": 0,
+      "sys": 84375,
+      "idle": 99265921,
+      "irq": 3109
+    }
+  }
+]
