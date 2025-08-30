@@ -1,0 +1,30 @@
+.idcard {
+  display: flex;
+  margin-left: 5px;
+  align-items: center;
+  border: 2px solid #190f0f;
+  padding: 0px;
+  margin-bottom: 15px;
+}
+
+.idcard img {
+  width: 150px;
+  height: auto;
+  margin-right: 15px;
+}
+
+.idcard .info {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.idcard .info strong {
+  font-weight: bold;
+}
+.App {
+  margin-left: 10px;
+  width: 50%;
+  min-height: 100px;
+  align-items: flex-start;
+  border: 1px solid black; /* optional, just to visualize */
+}
