@@ -1,0 +1,13 @@
+.book {
+    background-color: #f9f9ff;
+    border: 1px;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.book-title {
+    font-size: 16px;
+    margin: 0;
+    color: #333;
+}
