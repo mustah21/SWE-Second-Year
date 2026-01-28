@@ -61,18 +61,3 @@ To raise clarity and maintainability, consider the following:
 - Consider tagging or labelling weeks that contain complete demos vs. exercises to signal which folders are runnable demos.
 - If exercises include sensitive or personal data, ensure those are removed before sharing.
 
-## Contribution & workflow
-
-- Branch for each feature or week improvement: `weekX/<short-description>`
-- Open a pull request with:
-  - Description of changes
-  - How to reproduce or run the updated content
-  - Any screenshots or demo links if applicable
-- Use meaningful commit messages and keep commits focused (one logical change per commit).
-
-If you want me to add this README.md to the repository directly, I can create a commit and push it to `main` (I will need your confirmation before making changes).
-
-## Contact / author
-
-Repository owner: mustah21  
-
