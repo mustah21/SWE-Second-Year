@@ -50,14 +50,3 @@ Most front-end folders that use the Vite template will follow the same basic com
 
 These commands assume that each front-end subproject contains its own package.json and the standard Vite scripts.
 
-## Recommended repository conventions (suggested improvements)
-
-To raise clarity and maintainability, consider the following:
-
-- Unified top-level README (this file) plus consistent per-week README templates:
-  - Purpose, learning outcomes, how to run, notable decisions, next steps.
-- Add CONTRIBUTING.md with guidance on branch naming, pull requests, and issue templates for collaborative improvement.
-- Add a LICENSE file (if not yet present) to clarify reuse and distribution permissions.
-- Consider tagging or labelling weeks that contain complete demos vs. exercises to signal which folders are runnable demos.
-- If exercises include sensitive or personal data, ensure those are removed before sharing.
-
